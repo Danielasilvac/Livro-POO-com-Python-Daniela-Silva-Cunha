@@ -41,11 +41,11 @@ Tecnologias Utilizadas:
 - PyCharm (IDE)
 - Google Colab 
 
-Como Executar:
+**Como Executar:**
 
 Você pode abrir os arquivos `.ipynb` diretamente no [Google Colab](https://colab.research.google.com) 
 
-Conclusão:
+**Conclusão:**
 
 Espero que este material seja útil na sua jornada de aprendizado em Python e na compreensão dos conceitos de Programação Orientada a Objetos. Cada notebook foi preparado com cuidado, buscando unir teoria e prática de maneira acessível e eficiente.
 
@@ -53,6 +53,6 @@ Fique à vontade para explorar os códigos, refazer os exemplos, adaptar os cont
 
 Bons estudos e boa programação! 
 
-Autoria:
+**Autoria:**
 
 Material desenvolvido por Daniela Silva Cunha.
